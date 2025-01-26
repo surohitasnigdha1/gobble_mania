@@ -27,3 +27,7 @@ Library: NumPy (for efficient grid management)
 
 
 Thanks to classic grid-based games like Tic-Tac-Toe for inspiring the mechanics of Gobble. This project was built as a fun way to explore game development logic, strategic thinking, and Python programming.
+
+
+
+
